@@ -9,7 +9,7 @@
     d. Tema per sentirti cool (checkout Tokyo Night)
 
 # Libreria da installare nel tuo conda environment
-Le librerie le installi da dentro il tuo conda environment con `pip instal <nome-della-libreria>`
+Le librerie le installi da dentro il tuo conda environment con `pip install <nome-della-libreria>`
 - Pandas
 - Numpy
 - Matplotlib
